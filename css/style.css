@@ -1,0 +1,36 @@
+.navbar{
+    background-color: #000000;
+}
+.navbar .nav-link{
+    color: white;
+}
+
+.hero{
+    background-image: url("/img/camion.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contenido{
+    color: white;
+    text-align: center;
+}
+
+.hero{
+    background: 
+    linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+    url("/img/camion.png");
+}
+
+.fondo{
+    background-size: cover;
+    background-position: center;
+        background: 
+    linear-gradient(rgba(0,0,0,0.6), rgb(0, 0, 0)),
+    url("/img/dinero.png");
+}
+
