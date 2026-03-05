@@ -6,7 +6,7 @@
 }
 
 .hero{
-    background-image: url("/img/camion.png");
+    background-image: url("../img/camion.png");
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -31,6 +31,6 @@
     background-position: center;
         background: 
     linear-gradient(rgba(0,0,0,0.6), rgb(0, 0, 0)),
-    url("/img/dinero.png");
+    url("../img/dinero.png");
 }
 
